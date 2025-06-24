@@ -13,11 +13,6 @@
     "react": "^19.1.0",
     "react-router-dom": "^7.6.2",
     "@google/genai": "0.14.0",
-    "firebase/app": "latest",
-    "firebase/auth": "latest",
-    "firebase/firestore": "latest",
-    "firebase/storage": "latest",
-    "firebase/analytics": "latest",
     "firebase": "^11.9.1"
   },
   "devDependencies": {
